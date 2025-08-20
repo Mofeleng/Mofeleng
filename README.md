@@ -22,7 +22,3 @@ I'm a full stack web developer focused on building modern, AI-powered web applic
 <br/>
 
 #
-
-### Stats
-
-![Mofeleng's Github stats](https://github-readme-stats.vercel.app/api?username=Mofeleng&show_icons=true&theme=gruvbox)
