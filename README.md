@@ -1,8 +1,8 @@
 # Mofeleng Mokgope
 
-**`Full Stack Developer & Tech Entrepreneur (Business + Data Focused)`**
+**`ASP.NET Backend Engineer | Distributed Systems & AI Integration`**
 
-I'm a full stack web developer focused on building modern, AI-powered web applications. I specialize in JavaScript, TypeScript and the Next.js ecosystem, using tools like Prisma, PostgreSQL and Tailwind CSS to build scalable, production-ready products. With a background in commerce and hands-on experience across both frontend and backend development, I combine business insight with technical execution. I’m currently building [Quicklycv](https://www.quicklycv.com/), an AI-driven resume tool that automates and speeds up the job application process.
+I am a Backend Engineer specializing in building robust, high-scale server-side applications using C# and the .NET ecosystem. My focus is on designing clean, maintainable architectures (Clean Architecture/CQRS) and integrating AI workflows into enterprise-grade systems. While my primary home is the backend, I leverage a strong TypeScript/React background to build seamless, full-stack experiences when the product demands it.
 
 ---
 
