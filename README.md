@@ -1,13 +1,10 @@
-# Mofeleng Mokgope
+# Hey, I'm Shadow 👋
 
-**`ASP.NET Backend Engineer | Distributed Systems & AI Integration`**
+**Software Developer | AI Engineering | Mathematics & Computer Science**
 
-I am a Backend Engineer specializing in building robust, high-scale server-side applications using C# and the .NET ecosystem. My focus is on designing clean, maintainable architectures (Clean Architecture/CQRS) and integrating AI workflows into enterprise-grade systems. While my primary home is the backend, I leverage a strong TypeScript/React background to build seamless, full-stack experiences when the product demands it.
+I build software systems with a particular interest in backend engineering, artificial intelligence, and intelligent applications.
 
----
-
-### Languages and Tools
-
+### Technologies
 <img align="left" alt="" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img  align="left" alt=""  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
@@ -18,5 +15,17 @@ I am a Backend Engineer specializing in building robust, high-scale server-side 
 <img align="left" alt="" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg"/>
 <img align="left" alt="" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+<br />
 
-<br/>
+### Currently Exploring
+
+- AI agent architectures and orchestration
+- Machine Learning fundamentals
+- Production-grade LLM applications
+- Backend system design
+
+### Featured Projects
+
+See my pinned repositories below.
+---
+
