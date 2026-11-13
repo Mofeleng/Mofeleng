@@ -23,7 +23,3 @@ I build software systems with a particular interest in backend engineering, arti
 - Machine Learning fundamentals
 - Production-grade LLM applications
 - Backend system design
-
-See my pinned repositories below.
----
-
