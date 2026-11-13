@@ -24,8 +24,6 @@ I build software systems with a particular interest in backend engineering, arti
 - Production-grade LLM applications
 - Backend system design
 
-### Featured Projects
-
 See my pinned repositories below.
 ---
 
