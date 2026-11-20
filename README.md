@@ -1,4 +1,4 @@
-# Hey, I'm Shadow 👋
+# Hey, I'm Mofeleng👋
 
 **Software Developer | AI Engineering | Mathematics & Computer Science**
 
